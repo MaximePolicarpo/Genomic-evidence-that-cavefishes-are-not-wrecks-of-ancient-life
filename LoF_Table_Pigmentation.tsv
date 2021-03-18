@@ -1,0 +1,23 @@
+Species	Gene	LoF	Pos_CDS	Nb_Bases	Gene_Set	Danio_rerio_Cds_length
+Gadus_morhua	gchfr	Deletion	156	1	Pigmentation	270
+Gadus_morhua	ltk	Insertion	2711	1	Pigmentation	4515
+Gadus_morhua	ltk	Deletion	3484	1	Pigmentation	4515
+Gadus_morhua	smtla	Insertion	277	1	Pigmentation	753
+Gadus_morhua	erbb3a	Deletion	1601	1	Pigmentation	4317
+Gadus_morhua	frem2a	Deletion	2022	1	Pigmentation	9342
+Gadus_morhua	frem2a	Insertion	5798	1	Pigmentation	9342
+Gadus_morhua	gli3	Insertion	532	1	Pigmentation	4662
+Gadus_morhua	kcnj13	Deletion	45	1	Pigmentation	1089
+Gadus_morhua	mbtps1	Deletion	1122	1	Pigmentation	3225
+Gadus_morhua	mcoln3b	Stop_gain	783		Pigmentation	1692
+Gadus_morhua	mcoln3b	Stop_gain	1368		Pigmentation	1692
+Gadus_morhua	atrn	Deletion	1115	1	Pigmentation	4027
+Gadus_morhua	atrn	Insertion	2174	1	Pigmentation	4027
+Gadus_morhua	arcn1b	Deletion	1086	1	Pigmentation	1539
+Typhlichthys_subterraneus	mreg	Deletion	405	7	Pigmentation	705
+Typhlichthys_subterraneus	trpm1a	Stop_gain	1192		Pigmentation	4944
+Typhlichthys_subterraneus	trpm1a	Insertion	917	1	Pigmentation	4944
+Typhlichthys_subterraneus	trpm1a	Deletion	3143	2	Pigmentation	4944
+Typhlichthys_subterraneus	trpm1a	Deletion	3680	4	Pigmentation	4944
+Lamprologus_lethops	oca2	Start_loss			Pigmentation	2505
+Lamprologus_tigripic	pts	Stop_loss			Pigmentation	345

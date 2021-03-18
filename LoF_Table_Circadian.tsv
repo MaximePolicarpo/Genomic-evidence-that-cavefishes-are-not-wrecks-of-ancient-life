@@ -1,0 +1,4 @@
+Species	Gene	LoF	Pos_CDS	Nb_Bases	Gene_Set	Danio_rerio_Cds_length
+Typhlichthys_subterraneus	Per2	Deletion	1269	1	Circadian	4200
+Typhlichthys_subterraneus	Per2	Splice	8		Circadian	4200
+Lamprologus_tigripic	cry-dash	Deletion	1113	13	Circadian	1563

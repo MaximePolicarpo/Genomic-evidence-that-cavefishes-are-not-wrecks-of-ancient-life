@@ -1,0 +1,50 @@
+Species	Gene	LoF	Pos_CDS	Nb_Bases	Gene_Set	Danio_rerio_Cds_length
+Typhlichthys_subterraneus	lws1	Deletion	322	13	Vision	1074
+Typhlichthys_subterraneus	opn6a-2	Stop_gain	219		Vision	1260
+Typhlichthys_subterraneus	opn6a	Deletion	696	2	Vision	1260
+Typhlichthys_subterraneus	opn7b	Deletion	588	10	Vision	1197
+Typhlichthys_subterraneus	opn7b	Deletion	450	19	Vision	1197
+Typhlichthys_subterraneus	opn7d	Stop_gain	495		Vision	1212
+Typhlichthys_subterraneus	opn7d	Stop_gain	780		Vision	1212
+Typhlichthys_subterraneus	parapinopsin-1	Splice	3		Vision	1026
+Typhlichthys_subterraneus	parietopsin	Deletion	176	2	Vision	1011
+Typhlichthys_subterraneus	rh1.1	Stop_gain	332		Vision	1065
+Typhlichthys_subterraneus	rh2	Insertion	286	5	Vision	1050
+Typhlichthys_subterraneus	tmt1b	Deletion	483	1	Vision	1146
+Typhlichthys_subterraneus	tmt1b	Deletion	629	2	Vision	1146
+Typhlichthys_subterraneus	tmt1b	Stop_gain	487		Vision	1146
+Typhlichthys_subterraneus	cryaa	Insertion	18	1	Vision	522
+Typhlichthys_subterraneus	cryba1l1	Insertion	230	1	Vision	600
+Typhlichthys_subterraneus	cryba1l1	Splice	3		Vision	600
+Typhlichthys_subterraneus	cryba4	Deletion	466	1	Vision	591
+Typhlichthys_subterraneus	crybb1	Stop_gain	538		Vision	699
+Typhlichthys_subterraneus	crybgx	Stop_gain	294		Vision	624
+Typhlichthys_subterraneus	crygn2	Start_loss			Vision	552
+Typhlichthys_subterraneus	rpe65b	Insertion	719	2	Vision	1599
+Typhlichthys_subterraneus	arr3a	Stop_gain	877		Vision	1074
+Typhlichthys_subterraneus	saga	Deletion	165	2	Vision	1179
+Typhlichthys_subterraneus	gcap3	Start_loss			Vision	567
+Typhlichthys_subterraneus	grk1b	Deletion	582	7	Vision	1680
+Typhlichthys_subterraneus	grk1b	Stop_gain	535		Vision	1680
+Typhlichthys_subterraneus	grk7a	Deletion	66	1	Vision	1650
+Typhlichthys_subterraneus	grk7a	Deletion	189	5	Vision	1650
+Typhlichthys_subterraneus	grk7a	Deletion	537	4	Vision	1650
+Typhlichthys_subterraneus	grk7a	Deletion	833	10	Vision	1650
+Typhlichthys_subterraneus	grk7a	Stop_gain	973		Vision	1650
+Typhlichthys_subterraneus	grk7b	Deletion	340	2	Vision	1647
+Typhlichthys_subterraneus	grk7b	Deletion	497	4	Vision	1647
+Typhlichthys_subterraneus	grk7b	Deletion	537	22	Vision	1647
+Typhlichthys_subterraneus	grk7b	Deletion	1224	4	Vision	1647
+Typhlichthys_subterraneus	pde6b	Insertion	183	4	Vision	2565
+Typhlichthys_subterraneus	pde6b	Insertion	222	1	Vision	2565
+Typhlichthys_subterraneus	rcv2a	Stop_gain	157		Vision	582
+Typhlichthys_subterraneus	gc2	Deletion	2043	1	Vision	3324
+Typhlichthys_subterraneus	gc2	Deletion	2742	1	Vision	3324
+Typhlichthys_subterraneus	gnat2	Insertion	375	5	Vision	1065
+Typhlichthys_subterraneus	gnat2	Stop_gain	211		Vision	1065
+Lamprologus_lethops	tmt1a	Deletion	474	1	Vision	1113
+Lamprologus_lethops	tmt1a	Deletion	571	20	Vision	1113
+Lamprologus_lethops	crybgx	Insertion	585	1	Vision	624
+Neolamprologus_brichardi	lws1	Deletion	509	5	Vision	1074
+Neolamprologus_brichardi	sws2-2	Deletion	779	1	Vision	1065
+Lamprologus_lethops	opn4x1	Stop_gain	1231		Vision	1242
