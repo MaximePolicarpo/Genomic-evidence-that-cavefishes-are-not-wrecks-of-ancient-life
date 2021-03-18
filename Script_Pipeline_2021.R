@@ -24,7 +24,6 @@ library(ggthemes)
 
 #### Import datas  ---------------------------------
 
-setwd("~/Desktop/These_Supplemental_Analysis/Graphs/Supplementary_data/Vision/")
 Vision_Sequences <- read.table("Vision_Sequences_Table.tsv", header=TRUE, sep="\t")
 Vision_LoFs <- read.table("LoF_Table_Vision.tsv", header=TRUE, sep="\t")
 
@@ -806,8 +805,6 @@ d1_2_3 %>% ggplot(., aes(x=rslt_simu_inter, y=nb_obs_prop, fill=Simu_name)) +
 
 
 
-setwd("~/Desktop/These_Supplemental_Analysis/Datations/Simulations_Subterraneus/")
-
 #Compute the number of pseudogene per species
 Number_pseudogenes_Tsubt <- nrow(Vision_Sequences %>% filter(Species == "Typhlichthys_subterraneus") %>% filter(Gene != "Not_Found") %>% filter(Gene.Type == "Pseudogene"))
 Number_pseudogenes_Lethops <- nrow(Vision_Sequences %>% filter(Species == "Lamprologus_lethops") %>% filter(Gene != "Not_Found") %>% filter(Gene.Type == "Pseudogene"))
@@ -1052,7 +1049,6 @@ tail(Subset_neutral_asty %>% filter(Probability >= 0.05), 1)
 
 #### Import datas  ---------------------------------
 
-setwd("~/Desktop/These_Supplemental_Analysis/Graphs/Supplementary_data/Circadian/")
 
 Circadian_Sequences <- read.table("Circadian_Sequences_Table.tsv", header=TRUE, sep="\t")
 Circadian_LoFs <- read.table("LoF_Table_Circadian.tsv", header=TRUE, sep="\t")
@@ -1082,7 +1078,6 @@ Circadian_Sequences %>%
 
 #### Import datas  ---------------------------------
 
-setwd("~/Desktop/These_Supplemental_Analysis/Graphs/Supplementary_data/Pigmentation/")
 
 Pigmentation_Sequences <- read.table("Pigmentation_Table.tsv", header=TRUE, sep="\t")
 Pigmentation_LoFs <- read.table("LoF_Table_Pigmentation.tsv", header=TRUE, sep="\t")
